@@ -17,3 +17,6 @@ eureka:
 PRODUCT:
   ribbon:
     NFLoadBalanceRuleClassName: com.netflix.loadbalancer.RandomRule
+girl:
+  age: 12
+  name: 123
