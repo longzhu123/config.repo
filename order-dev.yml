@@ -19,4 +19,4 @@ PRODUCT:
     NFLoadBalanceRuleClassName: com.netflix.loadbalancer.RandomRule
 girl:
   age: 12
-  name: 123
+  name: yangjie
